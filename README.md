@@ -1,2 +1,1 @@
-# my_project
-My first git project
+# This is my first trial with git
